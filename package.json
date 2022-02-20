@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "Brain Games - Simple Bash Games",
+  "main": "index.js",
+  "bin": {
+    "code": "brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrey-pryadko/frontend-project-lvl1.git"
+  },
+  "author": "Andrey Pryadko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrey-pryadko/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/andrey-pryadko/frontend-project-lvl1#readme"
+}
